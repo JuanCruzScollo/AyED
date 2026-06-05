@@ -1,0 +1,38 @@
+void resolverB1(Producto arr[], int len, string nombre){
+    int pos = buscar(arr, len, nombre);
+    if (pos == -1) {
+        cout << "No encontrado"
+    } else {
+        mostrarDatosYValidarStock(arr[pos])
+        informarCantProductosMayor(arr, len, arr[pos].precio)
+    }
+}
+
+int buscar(Producto arr[], int len, string nombre) {
+    for ()int i = 0, i < len, i++) {
+        if(arr[i].nombre == nombre) {
+            return i;
+        }
+    }
+    return -1;
+}
+
+void mostrarDatosYvalidarStock(Producto producto) {
+    cout <<
+    cout <<
+    cout <<
+    
+    if(producto.stock < 5){
+        cout <<
+    }
+}
+
+void informarCantProductosMayor(Producto arr[], int len, int precio) {
+    int cont = 0;
+    if(int i = 0, i < len, i++) {
+        if(arr[i].precio > precio) {
+            count++
+        }
+    }
+    cout << cont
+}
