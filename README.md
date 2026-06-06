@@ -17,4 +17,4 @@ Para poder correr estos ejercicios en sus computadoras, van a necesitar un compi
 ### 2. ¿Cómo clonar este repositorio?
 Si tienen Git instalado, abran una terminal en la carpeta donde quieran guardar la materia y ejecuten:
 ```bash
-git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
+git clone https://github.com/JuanCruzScollo/AyED.git
