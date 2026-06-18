@@ -1,1 +1,7 @@
+.vscode/
 *.out
+*.plist
+*.dat
+1
+*.dSYM/
+usuarios.dat
